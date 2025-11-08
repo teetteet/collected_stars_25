@@ -1,4 +1,5 @@
-# Awesome Stars ~ 3900 projects starred
+# Awesome Stars
+~ 3900 projects starred, need to view raw to view the whole content.
 
 ## Contents
 
