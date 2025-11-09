@@ -89,7 +89,6 @@
 - [Zig](#zig)
 
 ## ActionScript 
-
 - [Tummyache/Palette-Fuck](https://github.com/Tummyache/Palette-Fuck) - Flash based palette generation app for quickly producing high quality palette files.
 - [TerryCavanagh/boscaceoil](https://github.com/TerryCavanagh/boscaceoil) - A simple music making program
 - [increpare/bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator.   Based on Sfxr.
@@ -97,19 +96,15 @@
 - [XanderXevious/DAME](https://github.com/XanderXevious/DAME) - Deadly Alien Map Editor - for 2D and isometric games.
 
 ## Adblock Filter List 
-
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
 
 ## Alloy 
-
 - [vitling/midihack](https://github.com/vitling/midihack) - Algorithmic music project for MIDIHACK 2014
 
 ## AngelScript 
-
 - [urho3d-tools/font-generator](https://github.com/urho3d-tools/font-generator) - 
 
 ## Arduino 
-
 - [pinarson/WK_MM2LED](https://github.com/pinarson/WK_MM2LED) - MadMapper USB to LED
 
 ## Assembly 
@@ -830,7 +825,6 @@
 - [silky/cppn-playground](https://github.com/silky/cppn-playground) - CPPN Playground
 
 ## G-code 
-
 - [svenpetersen1965/VIC-20_AV-Adapter](https://github.com/svenpetersen1965/VIC-20_AV-Adapter) - An Adapter for connecting the Commodore VIC-20 to video equipment with off the shelve A/V-cables.
 
 ## GDScript 
@@ -928,11 +922,9 @@
 - [progrium/localtunnel](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet
 
 ## Gosu 
-
 - [entaq/GoogleAppsScript](https://github.com/entaq/GoogleAppsScript) - Sample code for Google Apps Script.
 
 ## HLSL 
-
 - [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders) - A collection of post-processing shaders written for ReShade.
 - [JosyahDooley/SpriteWrap](https://github.com/JosyahDooley/SpriteWrap) - Wraps a sprite using Construct 3
 - [clomie/vvvv-sandbox](https://github.com/clomie/vvvv-sandbox) - 
@@ -2752,11 +2744,9 @@
 - [hawkthorne/hawkthorne-journey](https://github.com/hawkthorne/hawkthorne-journey) - Digital Estate Planning: The Game
 
 ## MDX 
-
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
-
 - [libretro/Lakka](https://github.com/libretro/Lakka) - Deprecated. Use https://github.com/lakkatv/Lakka-LibreELEC instead
 - [raspberrypi/noobs](https://github.com/raspberrypi/noobs) - NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi
 
@@ -2777,7 +2767,6 @@
 - [antononcube/MathematicaForPrediction](https://github.com/antononcube/MathematicaForPrediction) - Mathematica implementations of machine learning algorithms used for prediction and personalization.
 
 ## Max 
-
 - [darosh/px-stream](https://github.com/darosh/px-stream) - Visual performance toolkit for Max for Live with audio and MIDI-reactive extended ISF shader support and more
 - [naotokui/RhythmVAE_M4L](https://github.com/naotokui/RhythmVAE_M4L) - Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE)
 - [MusicSDP/MSDP](https://github.com/MusicSDP/MSDP) - Music_SDP is a toolbox for Multimedia Synthesis, Design, and Performance
@@ -2785,7 +2774,6 @@
 - [zealtv/VIZZable-3](https://github.com/zealtv/VIZZable-3) - Video performance plugins for Ableton and Max
 
 ## NSIS 
-
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 
 ## Nushell 
@@ -2793,7 +2781,6 @@
 - [razcore-rad/krita-resources](https://github.com/razcore-rad/krita-resources) - razcore-rad's Krita resources: brushes, paintoppresets, palettes, workspace, etc.
 
 ## OCaml 
-
 - [vult-dsp/vult](https://github.com/vult-dsp/vult) - Vult is a transcompiler well suited to write high-performance DSP code
 - [emillon/bulletml](https://github.com/emillon/bulletml) - Tools to manipulate and interpret shmup patterns
 
