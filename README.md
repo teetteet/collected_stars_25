@@ -1,6 +1,5 @@
 # Awesome Stars
 ~ 3900 projects starred, need to view raw to view the whole content.
-
 ## Contents
 
 - [ActionScript](#actionscript)
@@ -117,18 +116,15 @@
 - [Yardape8000/NeoDS](https://github.com/Yardape8000/NeoDS) - NDS NeoGeo Emulator (updated from 2.0 source)
 
 ## Astro 
-
 - [ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
 
 ## AutoHotkey 
-
 - [genmce/AHK_Midi2Keypress](https://github.com/genmce/AHK_Midi2Keypress) - Takes midi input and converts to a keypress
 - [Fabrice-Deshayes-aka-Xtream/mtp_preset_auto_switcher](https://github.com/Fabrice-Deshayes-aka-Xtream/mtp_preset_auto_switcher) - AutoHotKey script for automatic profile switch on Bome Midi Translator Pro
 - [EposVox/WindowsMods](https://github.com/EposVox/WindowsMods) - Mods and enhancements, shortcut replacements, for Windows.
 - [cbuliarca/BCM_SubstancePainter_shortcuts](https://github.com/cbuliarca/BCM_SubstancePainter_shortcuts) - Autohotkey scripts that are searching custom pixels on your screen and automaticaly moves and clicks your mouse in order to do some tasks faster
 
 ## Batchfile 
-
 - [fodi/c3p2git](https://github.com/fodi/c3p2git) - Windows CLI utility that turns c3p files into git commits
 - [zeittresor/xml-soundhelix-ai-tests](https://github.com/zeittresor/xml-soundhelix-ai-tests) - Attempts to use the ChatGPT Agent Mode by OpenAI to create new example config files for SoundHelix using prompts
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
@@ -1155,7 +1151,6 @@
 - [VertexZero/construct-inkjs](https://github.com/VertexZero/construct-inkjs) - InkJS adapted to work with Construct 3 game engine.
 
 ## Inno Setup 
-
 - [boot2docker/windows-installer](https://github.com/boot2docker/windows-installer) - Install Boot2Docker cli, msys-git and VirtualBox
 
 ## Java 
@@ -2625,7 +2620,6 @@
 - [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 
 ## Jinja 
-
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jupyter Notebook 
@@ -2676,15 +2670,12 @@
 - [ligi/PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
 
 ## Less 
-
 - [10xLaCroixDrinker/colors.less](https://github.com/10xLaCroixDrinker/colors.less) - Use LESS to create color schemes
 
 ## LiveScript 
-
 - [polm/palladian-facades](https://github.com/polm/palladian-facades) - 🏛️ Palladian Facade Generator for ProcJam2015
 
 ## Lua 
-
 - [gergill/knotmapper](https://github.com/gergill/knotmapper) - 
 - [Joecstarr/knotplot_text](https://github.com/Joecstarr/knotplot_text) - 
 - [thkwznk/aseprite-scripts](https://github.com/thkwznk/aseprite-scripts) - Repository of LUA scripts for Aseprite.
@@ -2751,12 +2742,10 @@
 - [raspberrypi/noobs](https://github.com/raspberrypi/noobs) - NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi
 
 ## Markdown 
-
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [mbrukman/awesome-game-dev](https://github.com/mbrukman/awesome-game-dev) - :video_game: A list of Game Development resources to make magic happen.
 
 ## Mathematica 
-
 - [EpicGames/MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration) - 
 - [huvers/reservoir_computing](https://github.com/huvers/reservoir_computing) - A reservoir computing implementation in Mathematica for financial time series prediction.
 - [JohnMurrill/Computational-Finance](https://github.com/JohnMurrill/Computational-Finance) - Computational Fiance Work
@@ -2777,7 +2766,6 @@
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 
 ## Nushell 
-
 - [razcore-rad/krita-resources](https://github.com/razcore-rad/krita-resources) - razcore-rad's Krita resources: brushes, paintoppresets, palettes, workspace, etc.
 
 ## OCaml 
@@ -2785,7 +2773,6 @@
 - [emillon/bulletml](https://github.com/emillon/bulletml) - Tools to manipulate and interpret shmup patterns
 
 ## Objective-C 
-
 - [mactkg/p5.js-screen-saver](https://github.com/mactkg/p5.js-screen-saver) - Create your original screen saver using p5.js!
 - [mrRay/vvopensource](https://github.com/mrRay/vvopensource) - OSC and MIDI frameworks for OS X and iOS, a framework for managing and rendering to GL textures in OS X, and a functional ISF (interactive shader format) implementation for OS X.
 - [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing
@@ -3294,22 +3281,18 @@
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 
 ## PLpgSQL 
-
 - [openmaptiles/openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 
 ## Pascal 
-
 - [RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master) - Raster Master Sprite/Icon/Map/Animation/Sound editor for Windows 7/8/10/11 Multiple Import/Export formats.  Use sprite sheets to import graphics. Create your own sprite sheets. Create modern web games
 - [castle-engine/castle-engine](https://github.com/castle-engine/castle-engine) - Cross-platform (desktop, mobile, console, web) 3D and 2D game engine. Powerful visual editor. Support for glTF, X3D, IFC and more. Fast clean code using modern Pascal. Free and open-source.
 - [gligli/rx5usb](https://github.com/gligli/rx5usb) - Yamaha RX5 DIY programmable waveform cartridge / waveform bank editor
 - [M3wP/XSID](https://github.com/M3wP/XSID) - Tools for the playback of XSID files and conversion of SID files.
 
 ## Perl 
-
 - [alanhaggai/Net-COLOURlovers](https://github.com/alanhaggai/Net-COLOURlovers) - Interface to COLOURlovers.com's API
 
 ## PowerShell 
-
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [TomasWeisss/krita-pip](https://github.com/TomasWeisss/krita-pip) - An implementation of a subset of Python pip to manage packages for developing Krita plugins.
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
@@ -3323,7 +3306,6 @@
 - [vitor251093/resurrection-capsule](https://github.com/vitor251093/resurrection-capsule) - ReCap for short. A small local server to play Darkspore offline
 
 ## Processing 
-
 - [BareConductive/picap-madmapper](https://github.com/BareConductive/picap-madmapper) - Processing sketch for Pi Cap and MadMapper
 - [OpenISS/frame-sharing-processing](https://github.com/OpenISS/frame-sharing-processing) - Unified frame sharing for OS X and Windows using Syphon or Spout depending on the OS.
 - [jyopari/ProceduralAnimalGenerator](https://github.com/jyopari/ProceduralAnimalGenerator) - 
@@ -3356,15 +3338,12 @@
 - [CaseyBloomquist/Teeter](https://github.com/CaseyBloomquist/Teeter) - A Leap Motion controlled video game
 
 ## Prolog 
-
 - [hsk/bulletpl](https://github.com/hsk/bulletpl) - 
 
 ## Puppet 
-
 - [MFoster/instantdrupal](https://github.com/MFoster/instantdrupal) - Vagrant and puppet team up to spin up a brand new instance of a Drupal web server
 
 ## Python 
-
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
 - [maximsokal/Blender_to_Spine_2D_Mesh_Export_Addon](https://github.com/maximsokal/Blender_to_Spine_2D_Mesh_Export_Addon) - A comprehensive Blender addon that converts 3D mesh objects into Spine2D-compatible JSON skeletal animation data. This tool bridges the gap between 3D modeling workflows and 2D skeletal animation pipe
@@ -3796,21 +3775,17 @@
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 
 ## QML 
-
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## R 
-
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R
 - [bilevg/SimpleGrowthVisualization](https://github.com/bilevg/SimpleGrowthVisualization) - Economic Growth (Annual % change in GDP) visualized on world map
 - [andrewheiss/colourlovers](https://github.com/andrewheiss/colourlovers) - 🎨 📦  R Client for the COLOURlovers API
 
 ## Roff 
-
 - [flashcarts/flashcard-archive](https://github.com/flashcarts/flashcard-archive) - An archive of all the firmwares for Nintendo DS flashcards
 
 ## Ruby 
-
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 - [Orochimarufan/Kawariki](https://github.com/Orochimarufan/Kawariki) - Kawariki Linux game runtime/compatibility tool
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
@@ -3962,7 +3937,6 @@
 - [devinroth/GenerativeMusic](https://github.com/devinroth/GenerativeMusic) - Procedurally generated musical compositions.
 
 ## TeX 
-
 - [AliBakly/Resume-Builder](https://github.com/AliBakly/Resume-Builder) - A LaTeX-based automated system for maintaining multiple versions of your resume with different project combinations with the help of GitHub Actions
 - [carinawi/monty-and-py](https://github.com/carinawi/monty-and-py) - Monty and Py grow up to become hackers. A Python book for children
 
@@ -4111,15 +4085,12 @@
 - [thinkpixellab/flatland](https://github.com/thinkpixellab/flatland) - Flatland is a simple theme and accompanying color scheme for Sublime Text 2.
 
 ## Visual Basic 
-
 - [Zeinok/OVGen](https://github.com/Zeinok/OVGen) - [REDACTED] A software you can put WAV files and make oscilloscope view thing.
 
 ## Visual Basic .NET 
-
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 
 ## Vue 
-
 - [ConstructFund/nvPatchUI](https://github.com/ConstructFund/nvPatchUI) - A UI app for the nvPatch tool
 - [ConstructFund/c3-effects-concat](https://github.com/ConstructFund/c3-effects-concat) - A web tool that concatenates effects in a given order
 - [anvaka/e-sum](https://github.com/anvaka/e-sum) - Visualization of exponential sums
@@ -4129,11 +4100,9 @@
 - [mariofink/farbenspiel](https://github.com/mariofink/farbenspiel) - A colour scheme playground built with Vue.js
 
 ## Zig 
-
 - [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 To the extent possible under law, [teetteet](https://github.com/teetteet) has waived all copyright and related or neighboring rights to this work.
 A curated 2025 list of my GitHub stars! Generated by [starred](https://github.com/maguowei/starred).
