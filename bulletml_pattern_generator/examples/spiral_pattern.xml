@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<bulletml xmlns="http://www.asahi-net.or.jp/~cs8k-cyu/bulletml" type="vertical">
+  <action label="top">
+    <repeat>
+      <times>10</times>
+      <action>
+        <fire>
+          <direction type="absolute">0.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">30.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">60.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">90.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">120.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">150.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">180.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">210.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">240.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">270.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">300.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <fire>
+          <direction type="absolute">330.0</direction>
+          <speed>2.0</speed>
+          <bullet/>
+        </fire>
+        <wait>0.05</wait>
+      </action>
+    </repeat>
+  </action>
+</bulletml>

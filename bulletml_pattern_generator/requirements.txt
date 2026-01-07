@@ -1,0 +1,10 @@
+# BulletML Pattern Generator Requirements
+# Python 3.6+ required
+
+# No external dependencies required for basic functionality
+# tkinter is part of the Python standard library
+
+# Optional: For development and testing
+# pytest>=7.0.0  # Alternative test runner
+# black>=22.0.0  # Code formatting
+# pylint>=2.13.0  # Code linting
